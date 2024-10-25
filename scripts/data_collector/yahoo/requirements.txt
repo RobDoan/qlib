@@ -2,7 +2,7 @@ loguru
 fire
 requests
 numpy
-pandas
+pandas==1.5.3
 tqdm
 lxml
 yahooquery
